@@ -13,7 +13,8 @@ bla bla bla
 
 ## subtitulo 3
 
-[]lista de chequeo 1
+[x]lista de chequeo 1
+
 []lista de chequeo 2
 
 ## subtitulo 3
